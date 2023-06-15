@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Parallax Demonstration Website
+This is a README file for a Parallax Demonstration Website built using React and React Spring, inspired by the game Firewatch.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Deployment link: 
+https://firewatch-parallax.vercel.app/
 
-## Available Scripts
+## Table of Contents
+- Introduction
+- Features
+- Prerequisites
+- Installation
+- Usage
+- Contributing
+- License
 
-In the project directory, you can run:
+## Introduction
+This project is a demonstration website that showcases the implementation of parallax scrolling effects using React and React Spring libraries. The website takes inspiration from the visually stunning game Firewatch and aims to recreate a similar immersive experience through parallax animations.
 
-### `npm start`
+## Features
+- Parallax scrolling effect: The website employs parallax scrolling to create a sense of depth and immersion.
+- React and React Spring: The project utilizes React, a popular JavaScript library for building user interfaces, along with React Spring, a library for creating fluid animations in React applications.
+- Interactive elements: Users can interact with various elements on the website, such as buttons or clickable elements, to trigger animations or navigate to different sections.
+- Responsive design: The website is designed to adapt to different screen sizes, providing a seamless experience across devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Prerequisites
+Before running the Parallax Demonstration Website, make sure you have the following software installed on your system:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Node.js (version 12 or above)
+- NPM (Node Package Manager)
+  
+## Installation
+Follow these steps to install and set up the project:
 
-### `npm test`
+- Clone the repository to your local machine or download the source code.
+Open a terminal or command prompt and navigate to the project directory.
+- Run the following command to install the dependencies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+npm install
 
-### `npm run build`
+## Usage
+To start the Parallax Demonstration Website, follow these steps:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Make sure you are in the project directory using the terminal or command prompt.
+Run the following command:
+npm start
+- Open a web browser and visit http://localhost:3000 to access the website.
+- Navigate through the website using scroll, interactive elements, or navigation buttons to experience the parallax effects.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributing
+Contributions to the project are welcome. If you want to contribute, please follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make the necessary changes in your branch.
+- Commit and push your changes to your forked repository.
+- Submit a pull request explaining your changes.
 
-### `npm run eject`
+## License
+The Parallax Demonstration Website is open-source software licensed under the MIT License. Feel free to modify and use the code as per the license terms.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
